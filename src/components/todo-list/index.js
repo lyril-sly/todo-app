@@ -21,5 +21,3 @@ function TodoList() {
         </ul>
     );
 }
-
-export default TodoList;
